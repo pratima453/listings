@@ -1,0 +1,52 @@
+span{
+ color: blue;
+ font-size: 25px;
+ padding: 0px 20px;
+ }
+div li {
+    display: inline-block;
+    padding: 0px 15px;
+    
+}
+.Right{
+    display: inline-block;
+    float: right;
+    padding: 0px 35px;
+    
+}
+.middle-content{
+    display: flex;
+    font-style: italic;
+}
+button{
+    background-color: blue;
+    color: white;
+    
+}
+.web, .graphic, .strategy{
+    width: 10%;
+    margin: -14px 0px;
+    
+}
+h2{
+    display: inline-block;
+}
+
+button{
+    float: right;
+    width: 203px;
+    height: 50px;
+}
+img{
+   width: 100%;
+}
+
+.Footer{
+    display: flex;
+    margin: 10px 20px;
+    padding: 20px 0px;
+}
+
+
+
+

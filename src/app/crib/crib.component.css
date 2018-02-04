@@ -1,0 +1,18 @@
+/* div{
+    width: 30%;
+    height: auto;
+    display: inline-block;
+} */
+
+.desc, .type{
+    margin-bottom: 0% !important;
+}
+.desc{
+    font-weight: bold;
+}
+.type, .price{
+    font-style: italic;
+}
+.desc, .type, .price{
+    text-align: center;
+}

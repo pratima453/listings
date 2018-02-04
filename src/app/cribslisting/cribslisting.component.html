@@ -1,0 +1,13 @@
+
+
+<!-- <div *ngFor= "let crib of cribs">
+  {{crib.description}}
+</div> -->
+
+<div class="d-inline-block col-md-4" *ngFor= "let crib of cribs" >
+    
+        
+  <app-crib  [crib]="crib"></app-crib>
+    
+  </div>
+
